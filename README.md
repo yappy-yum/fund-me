@@ -112,7 +112,7 @@ For testing purposes, price feed address with the conversion of **ETH/USD** is u
   - Includes helper functions defined in **`helperFunction.t.sol`**.
 
 
-### 2️.  **Integration Tests**
+### 2.  **Integration Tests**
 - 🎯 Focus on specific critical functions.
 - 🔍 **Details:**  
   - Tests the **`donate()`** and **`withdraw()`** functions in isolation.
